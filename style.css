@@ -1,0 +1,11 @@
+.footer{
+    position: fixed;
+    padding-bottom: 0px;
+}
+canvas{
+    border-radius: 20px;
+    margin-bottom: 1000px;
+}
+.heading{
+    width: 100%;
+}
